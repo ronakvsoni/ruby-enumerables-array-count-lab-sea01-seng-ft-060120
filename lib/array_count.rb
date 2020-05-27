@@ -13,4 +13,3 @@ def count_empty_strings(array)
     element.class == ""
 end
 end
-p count_empty_strings(arrays)
